@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    SITE_URL: "http://coderhax.vercel.app",
+    SITE_URL: "https://coderhax.vercel.app",
   },
   poweredByHeader: false,
   async headers() {
